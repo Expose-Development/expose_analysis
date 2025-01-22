@@ -1,0 +1,11 @@
+name: expose_analysis
+description: Lint rules for Dart and Flutter used internally at Expose.
+repository: https://github.com/Expose-Development/expose_analysis
+issue_tracker: https://github.com/Expose-Development/expose_analysis
+homepage: https://github.com/Expose-Development/expose_analysis
+documentation: https://github.com/Expose-Development/expose_analysis
+version: 1.0.0+1
+topics: [lints, analyzer, analysis]
+
+environment:
+  sdk: ^3.6.0
