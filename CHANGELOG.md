@@ -6,3 +6,7 @@
 
 - feat: update options with new DartFormatter changes
 - fix: README.md typo
+
+# 1.1.1
+
+- feat: remove conflicting rules with the new formatter
