@@ -2,7 +2,7 @@
 
 ---
 
-This package provides lint rules for Dart and Flutter which are used at [Expose][expose_link]].
+This package provides lint rules for Dart and Flutter which are used at [Expose][expose_link].
 The package also contains a configuration for [DCM][dcm_link].
 
 ## Usage
@@ -17,7 +17,7 @@ include: package:expose_analysis/analysis_options.yaml
 This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
-include: package:expose_analysis/analysis_options.1.0.0.yaml
+include: package:expose_analysis/analysis_options.1.1.0.yaml
 ```
 
 ## Suppressing Lints
