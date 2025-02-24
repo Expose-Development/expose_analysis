@@ -10,3 +10,7 @@
 # 1.1.1
 
 - feat: remove conflicting rules with the new formatter
+
+# 1.1.2
+
+- feat: remove some rules & update exclude files
